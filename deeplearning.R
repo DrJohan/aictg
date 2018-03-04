@@ -1,4 +1,4 @@
-# Install packages
+# Install packages/ Set wd different from default
 library(keras)
 setwd("E:/Data_analysis/Ai_ctg")
 
